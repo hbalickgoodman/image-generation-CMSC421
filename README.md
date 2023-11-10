@@ -26,4 +26,6 @@ pip install transformers
 
 ## Running the script
 ``` python image-gen.py 'prompt' filename ```
+
+
 Ex: ``` python image-gen.py 'cat with very long neck standing on a chair' cat.png ```
